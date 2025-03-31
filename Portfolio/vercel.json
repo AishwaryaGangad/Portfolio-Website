@@ -27,6 +27,5 @@
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ],
-  "rootDirectory": "Portfolio"
+  ]
 } 
